@@ -15,7 +15,8 @@ How To Run -
 9. Type : localhost/Project_Folder_Name/login.php to run the application in browser.
  login: user1
  password: pass1
-Made By-
+Made By -
+-------
 Animesh Srivastava
 Prashant Verma
 Mihir Verma
